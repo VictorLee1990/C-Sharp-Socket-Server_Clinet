@@ -64,6 +64,7 @@ namespace Socket_Server_Clinet
             else
             {
                 MessageBox.Show("選擇錯誤");
+                MessageBox.Show("QQ");
             }
                            
         }

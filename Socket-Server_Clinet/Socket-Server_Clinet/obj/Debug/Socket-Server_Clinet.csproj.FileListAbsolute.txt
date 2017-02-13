@@ -16,3 +16,6 @@ C:\Users\vic.lee\Documents\Visual Studio 2012\Projects\Socket-Server_Clinet - �
 C:\Users\vic.lee\Desktop\C# 練習\Socket-Server_Clinet - 複製 - 複製\Socket-Server_Clinet\bin\Debug\Socket-Server_Clinet.exe.config
 C:\Users\vic.lee\Desktop\C# 練習\Socket-Server_Clinet - 複製 - 複製\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.exe
 C:\Users\vic.lee\Desktop\C# 練習\Socket-Server_Clinet - 複製 - 複製\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.pdb
+D:\Github\C-Sharp-Socket-Server_Clinet\Socket-Server_Clinet\Socket-Server_Clinet\bin\Debug\Socket-Server_Clinet.exe.config
+D:\Github\C-Sharp-Socket-Server_Clinet\Socket-Server_Clinet\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.exe
+D:\Github\C-Sharp-Socket-Server_Clinet\Socket-Server_Clinet\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.pdb
