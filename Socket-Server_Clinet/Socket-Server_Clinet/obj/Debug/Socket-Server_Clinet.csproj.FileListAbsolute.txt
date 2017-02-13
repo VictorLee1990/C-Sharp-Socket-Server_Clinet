@@ -1,0 +1,18 @@
+c:\users\vic.lee\documents\visual studio 2012\Projects\Socket-Server_Clinet\Socket-Server_Clinet\bin\Debug\Socket-Server_Clinet.exe.config
+c:\users\vic.lee\documents\visual studio 2012\Projects\Socket-Server_Clinet\Socket-Server_Clinet\bin\Debug\Socket-Server_Clinet.exe
+c:\users\vic.lee\documents\visual studio 2012\Projects\Socket-Server_Clinet\Socket-Server_Clinet\bin\Debug\Socket-Server_Clinet.pdb
+c:\users\vic.lee\documents\visual studio 2012\Projects\Socket-Server_Clinet\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.csprojResolveAssemblyReference.cache
+c:\users\vic.lee\documents\visual studio 2012\Projects\Socket-Server_Clinet\Socket-Server_Clinet\obj\Debug\Socket_Server_Clinet.Properties.Resources.resources
+c:\users\vic.lee\documents\visual studio 2012\Projects\Socket-Server_Clinet\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.csproj.GenerateResource.Cache
+c:\users\vic.lee\documents\visual studio 2012\Projects\Socket-Server_Clinet\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.exe
+c:\users\vic.lee\documents\visual studio 2012\Projects\Socket-Server_Clinet\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.pdb
+c:\users\vic.lee\documents\visual studio 2012\Projects\Socket-Server_Clinet\Socket-Server_Clinet\obj\Debug\Socket_Server_Clinet.Form1.resources
+C:\Users\vic.lee\Documents\Visual Studio 2012\Projects\Socket-Server_Clinet - 複製\Socket-Server_Clinet\bin\Debug\Socket-Server_Clinet.exe.config
+C:\Users\vic.lee\Documents\Visual Studio 2012\Projects\Socket-Server_Clinet - 複製\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.exe
+C:\Users\vic.lee\Documents\Visual Studio 2012\Projects\Socket-Server_Clinet - 複製\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.pdb
+C:\Users\vic.lee\Documents\Visual Studio 2012\Projects\Socket-Server_Clinet - 複製 - 複製\Socket-Server_Clinet\bin\Debug\Socket-Server_Clinet.exe.config
+C:\Users\vic.lee\Documents\Visual Studio 2012\Projects\Socket-Server_Clinet - 複製 - 複製\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.exe
+C:\Users\vic.lee\Documents\Visual Studio 2012\Projects\Socket-Server_Clinet - 複製 - 複製\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.pdb
+C:\Users\vic.lee\Desktop\C# 練習\Socket-Server_Clinet - 複製 - 複製\Socket-Server_Clinet\bin\Debug\Socket-Server_Clinet.exe.config
+C:\Users\vic.lee\Desktop\C# 練習\Socket-Server_Clinet - 複製 - 複製\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.exe
+C:\Users\vic.lee\Desktop\C# 練習\Socket-Server_Clinet - 複製 - 複製\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.pdb
