@@ -19,3 +19,9 @@ C:\Users\vic.lee\Desktop\C# 練習\Socket-Server_Clinet - 複製 - 複製\Socket
 D:\Github\C-Sharp-Socket-Server_Clinet\Socket-Server_Clinet\Socket-Server_Clinet\bin\Debug\Socket-Server_Clinet.exe.config
 D:\Github\C-Sharp-Socket-Server_Clinet\Socket-Server_Clinet\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.exe
 D:\Github\C-Sharp-Socket-Server_Clinet\Socket-Server_Clinet\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.pdb
+D:\Github\C-Sharp-Socket-Server_Clinet\Socket-Server_Clinet\Socket-Server_Clinet\bin\Debug\Socket-Server_Clinet.exe
+D:\Github\C-Sharp-Socket-Server_Clinet\Socket-Server_Clinet\Socket-Server_Clinet\bin\Debug\Socket-Server_Clinet.pdb
+D:\Github\C-Sharp-Socket-Server_Clinet\Socket-Server_Clinet\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.csprojResolveAssemblyReference.cache
+D:\Github\C-Sharp-Socket-Server_Clinet\Socket-Server_Clinet\Socket-Server_Clinet\obj\Debug\Socket_Server_Clinet.Form1.resources
+D:\Github\C-Sharp-Socket-Server_Clinet\Socket-Server_Clinet\Socket-Server_Clinet\obj\Debug\Socket_Server_Clinet.Properties.Resources.resources
+D:\Github\C-Sharp-Socket-Server_Clinet\Socket-Server_Clinet\Socket-Server_Clinet\obj\Debug\Socket-Server_Clinet.csproj.GenerateResource.Cache

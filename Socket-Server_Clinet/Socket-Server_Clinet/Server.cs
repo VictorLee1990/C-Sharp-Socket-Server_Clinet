@@ -121,16 +121,22 @@ namespace Socket_Server_Clinet
         {
             try
             {
-               
-                SckSs[SckCIndex] = SckSs[0].Accept();           
+                string name = this.tids[Scki].Name;
+                connectExist = false;
+                SckSs[SckCIndex] = SckSs[0].Accept();
                 Scki = SckCIndex;
-                connect();
+
+                 connect();
                 long IntAcceptData;
                 connectExist = true;
                 clinetExist();
+
                 while (true)
                 {
-                
+
+                    int threadID = Thread.CurrentThread.ManagedThreadId;
+                    
+                    Scki = threadID - 9;
                     //Thread.Sleep(5000);
                     //判斷clinet是否斷線
                     if (SckSs[Scki].Poll(0, SelectMode.SelectRead) == true && SckSs[Scki].Available == 0)
