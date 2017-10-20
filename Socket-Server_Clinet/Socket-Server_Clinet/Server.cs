@@ -129,7 +129,7 @@ namespace Socket_Server_Clinet
                  connect();
                 long IntAcceptData;
                 connectExist = true;
-                clinetExist();
+                clinetExist();  
 
                 while (true)
                 {
@@ -160,7 +160,6 @@ namespace Socket_Server_Clinet
             catch(Exception ex) 
             {
                 cText = "已經斷線";
-                //MessageBox.Show(ex.Message);
                 receiveClinet();
             }
           
